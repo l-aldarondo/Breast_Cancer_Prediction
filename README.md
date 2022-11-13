@@ -106,15 +106,12 @@ The model has a linear architecture, not a deep neural network. However, the rem
 
 * Features were explored using coefficients, Recursive Feature Elimination (RFE) and Select from Model (SFM) methods for the Logistic Regression model. (Fig 1.9)
 
-* All three methods produced lower accuracy results then using all features
-
 * All features used in model
 
-* Model accuracy score: **0.9241** (Fig. 1.10)
+* Model accuracy score: **0.94405** (Fig. 1.10)
 
-* Predicted winner test_1: **Las Vegas Aces (LVA) - 60.9%**
+* Accurately predictd whether a patient had breast cancer or not.
 
-* Predicted winner test_2: **Minnesota Lynx 29.5%**
 
 ![Logistic_Regression_feature_importance](./Images/LR_feature_importance.png)
 
