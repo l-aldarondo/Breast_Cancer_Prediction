@@ -98,30 +98,35 @@ The model has a linear architecture, not a deep neural network. However, the rem
 
 ![Logistic_Regression](./Images/Logistic_Regression_sample.png)
 
-<sub> Fig. 1.6 Logistic Regression plot. Credit srikarkatta.wordpress
+<sub> Fig. 1.1 Logistic Regression plot. Credit srikarkatta.wordpress
 
 ## Results Overview:
 
 ### Logistic Regression
 
-* Features were explored using coefficients, Recursive Feature Elimination (RFE) and Select from Model (SFM) methods for the Logistic Regression model. (Fig 1.9)
+* Features were explored using coefficients, Recursive Feature Elimination (RFE) and Select from Model (SFM) methods for the Logistic Regression model. (Fig 1.3)
 
 * All features used in model
 
-* Model accuracy score: **0.94405** (Fig. 1.10)
+* Model accuracy score: **0.94405** (Fig. 1.4)
 
 * Accurately predictd whether a patient had breast cancer or not.
 
+![Logistic_Regression_model_fit](./Images/logistic_regression_model_fit.png)
 
-![Logistic_Regression_feature_importance](./Images/LR_feature_importance.png)
-
-<sub> Fig. 1.9 Logistic Regression feature importance.
+<sub> Fig. 1.2 Logistic Regression model fit plot.
 
 <br/>
 
-![Logistic_Regression_accuracy_score](./Images/Logistic_Regression_accuracy.png)
+![Logistic_Regression_feature_importance](./Images/feature_importance.png)
 
-<sub> Fig. 1.10 Logistic Regression accuracy score.
+<sub> Fig. 1.3 Logistic Regression feature importance.
+
+<br/>
+
+![Logistic_Regression_accuracy_score](./Images/logistic_regression_accuracy.png)
+
+<sub> Fig. 1.4 Logistic Regression accuracy score.
 
 <br/>
 
@@ -151,5 +156,3 @@ The model has a linear architecture, not a deep neural network. However, the rem
 [matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.savefig.html)
 
 [Google Machine Learning Glosary](https://developers.google.com/machine-learning/glossary#l)
-
-[Applied Computing and Informatics (Journal)](https://www.sciencedirect.com/science/article/pii/S2210832717301485)
