@@ -7,9 +7,9 @@ Using Supervised Machine Learning - Logistic Regression Model to diagnose cancer
 
 ## Background
 
-### How Does Machine Learning Predict Sports Match Outcomes?
+### How Does Machine Learning Predict Cancer Outcomes?
 
-One of the common machine learning (ML) tasks, which involves predicting a target variable in previously unseen data, is classification. The aim of classification is to predict a target variable (class) by building a classification model based on a training dataset, and then utilizing that model to predict the value of the class of test data. This type of data processing is called supervised learning since the data processing phase is guided toward the class variable while building the model. Some common applications for classification include loan approval, medical diagnoses, email filtering, among others.
+One of the common machine learning (ML) tasks, which involves predicting a target variable in previously unseen data, is classification. The aim of classification is to predict a target variable (class) by building a classification model based on a training dataset, and then utilizing that model to predict the value of the class of test data. This type of data processing is called supervised learning since the data processing phase is guided toward the class variable while building the model. Some common applications for classification include medical diagnoses, among others.
 
 
 ## Project Overview
